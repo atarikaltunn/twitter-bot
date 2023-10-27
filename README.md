@@ -3,14 +3,14 @@
 Hi,
 This is a Twitter Bot that aims to help carry out a hashtag to global/local trend topic (TT).
 
-## Usage 
+## Usage 
 
 ### Requirements
 
 - Python -v 3 and above
 - Twitter Developer account
 
-### How To Use
+### How To Use
 
 1. After installing Python to your machine you will need to create a Twitter Developer acc. and then to create an app and app's following security keys:
 - API & API Secret Keys

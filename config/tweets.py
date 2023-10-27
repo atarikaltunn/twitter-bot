@@ -1,101 +1,103 @@
+hashtag = "#TThashtag" #replace TThashtag to whatever will it be
+
 list = [
-    "1- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"Stop Genocide in Gaza! {hashtag} "
     ,
-    "2- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"🇵🇸 Gaza is under bombardment, the internet and of telecommunications have been cut off. They need StarLink immediately.  {hashtag} "
     ,
-    "3- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"Believe me, the children in Gaza are as children as those in Ukraine. @elonmusk {hashtag} "
     ,
-    "4- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"You are the West. At Serebrenica, you were silent, you watched. You did not change. You are slaughtering humanity. {hashtag} "
     ,
-    "5- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"You are the only one who allowed people to speak against LGBT and Zionism. There is currently no electricity, internet or telephone network in Gaza. The people there can only make their voices heard with the means you have. @elonmusk {hashtag} "
     ,
-    "6- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"وَلُعِنُوا بِمَا قَالُواۘ {hashtag} "
     ,
-    "7- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"F*CK ISRAEL {hashtag} "
     ,
-    "8- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"8- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "9- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"9- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "10- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"10- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "11- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"11- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "12- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"12- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "13- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"13- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "14- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"14- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "15- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"15- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "16- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"16- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "17- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"17- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "18- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"18- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "19- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"19- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "20- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"20- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "21- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"21- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "22- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"22- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "23- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"23- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "24- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"24- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "25- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"25- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "26- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"26- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "27- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"27- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "28- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"28- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "29- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"29- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "30- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"30- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "31- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"31- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "32- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"32- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "33- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"33- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "34- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"34- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "35- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"35- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "36- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"36- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "37- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"37- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "38- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"38- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "39- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"39- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "40- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"40- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "41- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"41- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "42- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"42- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "43- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"43- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "44- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"44- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "45- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"45- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "46- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"46- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "47- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"47- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "48- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"48- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "49- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"49- Katil İsrail İşbirlikçi ABD! {hashtag} "
     ,
-    "50- Katil İsrail İşbirlikçi ABD! #AnlaşmalarıFeshet "
+    f"50- Katil İsrail İşbirlikçi ABD! {hashtag} "
 ]

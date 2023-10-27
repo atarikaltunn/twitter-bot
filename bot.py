@@ -10,6 +10,5 @@ api = tweepy.API(auth)
 client = tweepy.Client(keys.bearer_token, keys.api, keys.api_secret, keys.access_token, keys.access_token_secret)
 
 for i in tweets.list:
-    print(i)
     client.create_tweet(text = i)
-    time.sleep(300)
+    time.sleep(100) #seconds to wait. Reduce if needed

@@ -8,9 +8,9 @@ list = [
     ,
     f"Onlar tuzak kurdular. Allah da tuzak kurdu. Allah, tuzak kuranların en hayırlısıdır. #{hashtag} "
     ,
-    f"You are the West. At Serebrenica, you were silent, you watched. You did not change. You are slaughtering humanity. #{hashtag} "
+    f"The west is collaborator to all genocides. At Serebrenica, they were silent, they watched. They did not change. They are slaughtering humanity. #{hashtag} "
     ,
-    f"You are the only one who allowed people to speak against LGBT and Zionism. There is currently no electricity, internet or telephone network in Gaza. The people there can only make their voices heard with the means you have. @elonmusk #{hashtag} "
+    f" #{hashtag} "
     ,
     f"وَلُعِنُوا بِمَا قَالُواۘ #{hashtag} "
     ,

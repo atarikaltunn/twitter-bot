@@ -4,9 +4,9 @@ hashtag = sys.argv[6] #replace TThashtag to whatever will it be
 list = [
     f"Stop Genocide in Gaza! #{hashtag} "
     ,
-    f"🇵🇸 Gaza is under bombardment, the internet and of telecommunications have been cut off. They need StarLink immediately.  #{hashtag} "
+    f"🇵🇸 Children is dying. Stop genocide in Gaza.  #{hashtag} "
     ,
-    f"Believe me, the children in Gaza are as children as those in Ukraine. @elonmusk #{hashtag} "
+    f"Onlar tuzak kurdular. Allah da tuzak kurdu. Allah, tuzak kuranların en hayırlısıdır. #{hashtag} "
     ,
     f"You are the West. At Serebrenica, you were silent, you watched. You did not change. You are slaughtering humanity. #{hashtag} "
     ,
